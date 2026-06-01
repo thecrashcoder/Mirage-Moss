@@ -1,0 +1,6 @@
+{
+  "name": "Mirage & Moss",
+  "description": "A highly responsive, cinematic marketing landing page for an exclusive premier boutique travel application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
